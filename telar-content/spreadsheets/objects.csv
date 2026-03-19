@@ -4,3 +4,4 @@ id_objeto,titulo,destacado,creador,descripcion,url_fuente,periodo,año,tipo_obje
 "# Escríbelo en minúsculas y sin espacios. Si hace referencia a un objeto local, asegúrate de que el object_id coincida exactamente con el nombre del archivo (con o sin extensión; no importa).",# Incluye un título: este campo es obligatorio.,"# Marca ""sí"" para destacar en la página de inicio",,,# Aquí puedes incluir un manifiesto IIIF y Telar se encargará del resto del trabajo.,,,,# Términos separados por comas para filtrado de galería,"# Esto se mostrará encima del visor, a menos que indiques lo contrario en _config.yml.",,"# Telar genera miniaturas automáticamente, pero puedes anular este comportamiento especificando un archivo de imagen en esta columna."
 philippines-map,,,,,,,,,,,,
 telar-placeholder,Telar placeholder,yes,Adelaida Ávila,,,,2026,,,,,
+trade-routes,,,,,,,,,,,,
