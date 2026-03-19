@@ -2,14 +2,14 @@
 # https://telar.org
 
 # Site Settings
-title: "Telar"
-description: "Telar (Spanish for 'loom') is a static site generator built on Jekyll that weaves together IIIF images, text, and layered contextual information into interactive digital narrative exhibitions. <a href='https://github.com/UCSB-AMPLab/telar'>Telar</a> is a project of <a href='https://neogranadina.org'>Neogranadina</a> and the Archives, Memory, and Preservation Labs at <a href='https://ampl.clair.ucsb.edu/'>UC Santa Barbara</a> and <a href='https://liberalarts.utexas.edu/history/'>UT Austin</a>."
+title: "The Spanish in the 16th-century Philippines"
+description: "This site explores the places settled by the Spanish in the Philippines between 1565 and 1600."
 url: "https://nataliecobo.com"
 baseurl: "/my-exhibition"
-author: ""
-email: ""
+author: "Dr Natalie Cobo"
+email: "natalie@neogranadina.org"
 telar_theme: "trama" # Options: trama, paisajes, neogranadina, santa-barbara, austin, or custom
-logo: "" # Path to logo image (optional, max 80px tall, 200-300px wide recommended)
+logo: ""
 telar_language: "en" # Options: "en" (English), "es" (Español)
 
 # Story Interface Settings
@@ -156,3 +156,4 @@ development-features:
   # Use this when building a site with only custom pages (no stories or objects)
   # (Backward compatible: hide_collections also supported)
   skip_collections: false
+story_key: test
